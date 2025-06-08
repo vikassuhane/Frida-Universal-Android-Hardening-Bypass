@@ -28,5 +28,5 @@ cd Frida-Universal-Android-Hardening-Bypass
 
 ## 🧠 Usage
 
-frida -U -f com.package.name -l Universal-Android-Hardening-Bypass.js
+frida -U -f com.package.name -l Universal_Android_Hardening_Bypass.js
 
