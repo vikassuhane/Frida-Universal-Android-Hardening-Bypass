@@ -24,7 +24,7 @@ Java.perform(function () {
         };
     });
 
- 	`   // === 2. RootBeer Bypass ===
+  // === 2. RootBeer Bypass ===
     console.log("[+] Hooking RootBeer root checks...");
     try {
         const RootBeer = Java.use("com.scottyab.rootbeer.RootBeer");
